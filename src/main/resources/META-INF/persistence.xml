@@ -10,6 +10,11 @@
         <class>no.hvl.dat250.jpa.tutorial.relationshipexample.Family</class>
         <class>no.hvl.dat250.jpa.tutorial.relationshipexample.Job</class>
 
+        <class>no.hvl.dat250.jpa.tutorial.creditcards.Address</class>
+        <class>no.hvl.dat250.jpa.tutorial.creditcards.Bank</class>
+        <class>no.hvl.dat250.jpa.tutorial.creditcards.CreditCard</class>
+        <class>no.hvl.dat250.jpa.tutorial.creditcards.Customer</class>
+        <class>no.hvl.dat250.jpa.tutorial.creditcards.Pincode</class>
 
         <properties>
             <property name="hibernate.archive.autodetection" value="class"/>
